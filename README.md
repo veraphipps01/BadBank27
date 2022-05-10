@@ -28,7 +28,7 @@ The only-frint-end version of the app is currently deployed on [AWS](http://bank
      
 ### Features
 
-    The project's best features include a dynamic navigation bar but also code specific for user context (i.e., mirroring deposits and withdrawals in the user’s balance). The userContext code can be generalized to other applications where such a functionality is needed if this app is used without backend, otherwise it uses MongoDB to add new users.
+The project's best features include a dynamic navigation bar but also code specific for user context (i.e., mirroring deposits and withdrawals in the user’s balance). The userContext code can be generalized to other applications where such a functionality is needed if this app is used without backend, otherwise it uses MongoDB to add new users.
 
 ### License
 
