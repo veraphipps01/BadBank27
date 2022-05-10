@@ -8,7 +8,7 @@
 
 ### Description
 
-    This app was created as a homework project for the full-stack with React part in a web development bootcamp. It was initially built via create-react-app and connected to backend via Express and MongoDB.
+This app was created as a homework project for the full-stack with React part in a web development bootcamp. It was initially built via create-react-app and connected to backend via Express and MongoDB.
 
 ### Installation Guidelines
 
