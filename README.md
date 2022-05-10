@@ -6,7 +6,7 @@ Project Title
 Description/Motivation
     This app was created as a homework project for the full-stack with React part in a web development bootcamp. It was initially built via create-react-app and connected to backend via Express and MongoDB.
 
-Installation Guidelines: The only-frint-end version of the app is currently deployed on [AWS] (http://bankappukraine.s3-website-us-west-1.amazonaws.com/), it can be run via local server which requires the following steps: 
+Installation Guidelines: The only-frint-end version of the app is currently deployed on [AWS](http://bankappukraine.s3-website-us-west-1.amazonaws.com/), it can be run via local server which requires the following steps: 
         - Clone the repository to your local machine
         - Install node.js
         - Run npm install (to create the node modules) in the project folder
